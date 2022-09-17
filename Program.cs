@@ -8,18 +8,21 @@ arrayInteiros [1] = 64;
 arrayInteiros [2] = 50;
 arrayInteiros[3] = 1;
 
+
+Array.Resize(ref arrayInteiros, arrayInteiros.Length * 2); // Cria um array novo com uma cópia do antigo. Porém usa uma capacidade nova.
+
 Console.WriteLine("Percorrendo array com for");
-for(int contador = 0; contador < 3; contador ++)
+for(int contador = 0; contador < arrayInteiros.Length; contador ++)
   Console.WriteLine($"Posição Nº {contador} - {arrayInteiros[contador]}");
 
-Console.WriteLine("Percorrendo array com foreach");
-int contadorForeach = 0;
-foreach(int valor in arrayInteiros){
+// Console.WriteLine("Percorrendo array com foreach");
+// int contadorForeach = 0;
+// foreach(int valor in arrayInteiros){
 
-    Console.WriteLine($"Posição Nº {contadorForeach} - {valor}");
-    contadorForeach++ ;
+//     Console.WriteLine($"Posição Nº {contadorForeach} - {valor}");
+//     contadorForeach++ ;
 
-}
+// }
 
 
 
