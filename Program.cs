@@ -8,8 +8,12 @@ arrayInteiros [1] = 64;
 arrayInteiros [2] = 50;
 arrayInteiros[3] = 1;
 
+int[] arrayInteirosDobrado = new int[arrayInteiros.Length * 2];
 
-Array.Resize(ref arrayInteiros, arrayInteiros.Length * 2); // Cria um array novo com uma cópia do antigo. Porém usa uma capacidade nova.
+Array.Copy(arrayInteiros, arrayInteirosDobrado, arrayInteiros.Length);
+
+
+//Array.Resize(ref arrayInteiros, arrayInteiros.Length * 2); // Cria um array novo com uma cópia do antigo. Porém usa uma capacidade nova.
 
 Console.WriteLine("Percorrendo array com for");
 for(int contador = 0; contador < arrayInteiros.Length; contador ++)
