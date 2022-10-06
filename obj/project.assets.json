@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Douglas\\Videos\\Bootcamp\\Array e Listas em C#\\Projeto\\Arrays_Listas\\ExemploFundamentos.csproj",
+      "projectUniqueName": "C:\\Users\\Douglas\\Videos\\Bootcamp\\Classes Abstratas e Interfaces com C#\\Projeto\\ClassesAbstratas_Interfaces\\ExemploFundamentos.csproj",
       "projectName": "ExemploFundamentos",
-      "projectPath": "C:\\Users\\Douglas\\Videos\\Bootcamp\\Array e Listas em C#\\Projeto\\Arrays_Listas\\ExemploFundamentos.csproj",
+      "projectPath": "C:\\Users\\Douglas\\Videos\\Bootcamp\\Classes Abstratas e Interfaces com C#\\Projeto\\ClassesAbstratas_Interfaces\\ExemploFundamentos.csproj",
       "packagesPath": "C:\\Users\\Douglas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Douglas\\Videos\\Bootcamp\\Array e Listas em C#\\Projeto\\Arrays_Listas\\obj\\",
+      "outputPath": "C:\\Users\\Douglas\\Videos\\Bootcamp\\Classes Abstratas e Interfaces com C#\\Projeto\\ClassesAbstratas_Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Douglas\\AppData\\Roaming\\NuGet\\NuGet.Config"

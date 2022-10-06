@@ -1,25 +1,56 @@
-﻿using ExemploFundamentos.Models;
-using OperadoresAritmeticosCSharp.Models;
+﻿using ClassesAbstratas_Interfaces.Models;
 
 
 
-List<String> listaStrings =  new List<String>();
 
-listaStrings.Add("SP");
-listaStrings.Add("BA");
-listaStrings.Add("MG");
-listaStrings.Add("RJ");
-listaStrings.Add("SC");
+Corrente c = new Corrente();
 
-Console.WriteLine($"Items na minha lista: {listaStrings.Count} - Capacidade: {listaStrings.Capacity}");
+c.Creditar(500);
 
-listaStrings.Add("SC");
+c.ExibirSaldo();
 
-Console.WriteLine($"Items na minha lista: {listaStrings.Count} - Capacidade: {listaStrings.Capacity}");
 
-listaStrings.Remove("SC");
 
-Console.WriteLine($"Items na minha lista: {listaStrings.Count} - Capacidade: {listaStrings.Capacity}");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// List<String> listaStrings =  new List<String>();
+
+// listaStrings.Add("SP");
+// listaStrings.Add("BA");
+// listaStrings.Add("MG");
+// listaStrings.Add("RJ");
+// listaStrings.Add("SC");
+
+// Console.WriteLine($"Items na minha lista: {listaStrings.Count} - Capacidade: {listaStrings.Capacity}");
+
+// // listaStrings.Add("SC");
+
+// Console.WriteLine($"Items na minha lista: {listaStrings.Count} - Capacidade: {listaStrings.Capacity}");
+
+// listaStrings.Remove("SC");
+
+// Console.WriteLine($"Items na minha lista: {listaStrings.Count} - Capacidade: {listaStrings.Capacity}");
 
 
 
@@ -220,7 +251,7 @@ Console.WriteLine($"Items na minha lista: {listaStrings.Count} - Capacidade: {li
 //       case "u":
 //             Console.WriteLine("Vogal");
 //             break;
-      
+
 //       default:
 //             Console.WriteLine("Não é uma vogal");
 //             break;
@@ -339,7 +370,7 @@ Console.WriteLine($"Items na minha lista: {listaStrings.Count} - Capacidade: {li
 // }
 // else
 // {
-  
+
 //       Console.WriteLine("Desculpe não temos a quantidade desejada em estoque");
 
 // }
