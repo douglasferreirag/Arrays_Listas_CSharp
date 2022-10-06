@@ -1,13 +1,44 @@
-﻿using ClassesAbstratas_Interfaces.Models;
+﻿using ClassesAbstratas_Interfaces;
+using ClassesAbstratas_Interfaces.Models;
+
+Pessoa p1 = new Pessoa("Leonardo");
+
+Aluno a1 = new Aluno("Eduardo");
+
+a1.Apresentar();
+
+Professor prof = new Professor();
 
 
 
 
-Corrente c = new Corrente();
 
-c.Creditar(500);
 
-c.ExibirSaldo();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Corrente c = new Corrente();
+
+// c.Creditar(500);
+
+// c.ExibirSaldo();
 
 
 

@@ -1,0 +1,15 @@
+C:\Users\Douglas\Videos\Bootcamp\Classes Abstratas e Interfaces com C#\Projeto\ClassesAbstratas_Interfaces\obj\Debug\net6.0\ClassesAbstratas_Interfaces.Models.csproj.AssemblyReference.cache
+C:\Users\Douglas\Videos\Bootcamp\Classes Abstratas e Interfaces com C#\Projeto\ClassesAbstratas_Interfaces\obj\Debug\net6.0\ClassesAbstratas_Interfaces.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\Videos\Bootcamp\Classes Abstratas e Interfaces com C#\Projeto\ClassesAbstratas_Interfaces\obj\Debug\net6.0\ClassesAbstratas_Interfaces.Models.AssemblyInfoInputs.cache
+C:\Users\Douglas\Videos\Bootcamp\Classes Abstratas e Interfaces com C#\Projeto\ClassesAbstratas_Interfaces\obj\Debug\net6.0\ClassesAbstratas_Interfaces.Models.AssemblyInfo.cs
+C:\Users\Douglas\Videos\Bootcamp\Classes Abstratas e Interfaces com C#\Projeto\ClassesAbstratas_Interfaces\obj\Debug\net6.0\ClassesAbstratas_Interfaces.Models.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Videos\Bootcamp\Classes Abstratas e Interfaces com C#\Projeto\ClassesAbstratas_Interfaces\bin\Debug\net6.0\ClassesAbstratas_Interfaces.Models.exe
+C:\Users\Douglas\Videos\Bootcamp\Classes Abstratas e Interfaces com C#\Projeto\ClassesAbstratas_Interfaces\bin\Debug\net6.0\ClassesAbstratas_Interfaces.Models.deps.json
+C:\Users\Douglas\Videos\Bootcamp\Classes Abstratas e Interfaces com C#\Projeto\ClassesAbstratas_Interfaces\bin\Debug\net6.0\ClassesAbstratas_Interfaces.Models.runtimeconfig.json
+C:\Users\Douglas\Videos\Bootcamp\Classes Abstratas e Interfaces com C#\Projeto\ClassesAbstratas_Interfaces\bin\Debug\net6.0\ClassesAbstratas_Interfaces.Models.dll
+C:\Users\Douglas\Videos\Bootcamp\Classes Abstratas e Interfaces com C#\Projeto\ClassesAbstratas_Interfaces\bin\Debug\net6.0\ClassesAbstratas_Interfaces.Models.pdb
+C:\Users\Douglas\Videos\Bootcamp\Classes Abstratas e Interfaces com C#\Projeto\ClassesAbstratas_Interfaces\obj\Debug\net6.0\ClassesAbstratas_Interfaces.Models.dll
+C:\Users\Douglas\Videos\Bootcamp\Classes Abstratas e Interfaces com C#\Projeto\ClassesAbstratas_Interfaces\obj\Debug\net6.0\refint\ClassesAbstratas_Interfaces.Models.dll
+C:\Users\Douglas\Videos\Bootcamp\Classes Abstratas e Interfaces com C#\Projeto\ClassesAbstratas_Interfaces\obj\Debug\net6.0\ClassesAbstratas_Interfaces.Models.pdb
+C:\Users\Douglas\Videos\Bootcamp\Classes Abstratas e Interfaces com C#\Projeto\ClassesAbstratas_Interfaces\obj\Debug\net6.0\ClassesAbstratas_Interfaces.Models.genruntimeconfig.cache
+C:\Users\Douglas\Videos\Bootcamp\Classes Abstratas e Interfaces com C#\Projeto\ClassesAbstratas_Interfaces\obj\Debug\net6.0\ref\ClassesAbstratas_Interfaces.Models.dll

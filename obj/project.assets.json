@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Douglas\\Videos\\Bootcamp\\Classes Abstratas e Interfaces com C#\\Projeto\\ClassesAbstratas_Interfaces\\ExemploFundamentos.csproj",
-      "projectName": "ExemploFundamentos",
-      "projectPath": "C:\\Users\\Douglas\\Videos\\Bootcamp\\Classes Abstratas e Interfaces com C#\\Projeto\\ClassesAbstratas_Interfaces\\ExemploFundamentos.csproj",
+      "projectUniqueName": "C:\\Users\\Douglas\\Videos\\Bootcamp\\Classes Abstratas e Interfaces com C#\\Projeto\\ClassesAbstratas_Interfaces\\ClassesAbstratas_Interfaces.Models.csproj",
+      "projectName": "ClassesAbstratas_Interfaces.Models",
+      "projectPath": "C:\\Users\\Douglas\\Videos\\Bootcamp\\Classes Abstratas e Interfaces com C#\\Projeto\\ClassesAbstratas_Interfaces\\ClassesAbstratas_Interfaces.Models.csproj",
       "packagesPath": "C:\\Users\\Douglas\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Douglas\\Videos\\Bootcamp\\Classes Abstratas e Interfaces com C#\\Projeto\\ClassesAbstratas_Interfaces\\obj\\",
       "projectStyle": "PackageReference",
