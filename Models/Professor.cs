@@ -6,7 +6,7 @@ using ClassesAbstratas_Interfaces.Models;
 
 namespace ClassesAbstratas_Interfaces.Models
 {
-    public class Professor : Pessoa
+    public sealed class Professor : Pessoa
     {
 
             public decimal Salario { get; set; }
