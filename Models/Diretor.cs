@@ -7,6 +7,13 @@ namespace ClassesAbstratas_Interfaces.Models
 {
     public class Diretor: Professor
     {
+
+             public sealed override  void Apresentar() {
+
+                        Console.WriteLine($"Diretor);
+
+             }
+
         
     }
 }
