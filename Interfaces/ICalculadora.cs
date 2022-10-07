@@ -10,6 +10,10 @@ namespace ClassesAbstratas_Interfaces.Interfaces
                  int Somar(int x, int y);
                  int Subtrair(int x, int y);
                  int Multiplicar(int x, int y);
-                 int Dividir(int x, int y);
-  }
+                 int Dividir(int x, int y){
+
+                        return x / y ;
+
+                 }
+    }
 }

@@ -27,11 +27,6 @@ namespace OperadoresAritmeticosCSharp.Models
 
                 }
 
-                public int Dividir(int x, int y){
-
-                        return x / y;
-
-                }
 
                 public void Potencia(int x, int y){
 
