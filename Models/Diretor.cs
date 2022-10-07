@@ -8,9 +8,9 @@ namespace ClassesAbstratas_Interfaces.Models
     public class Diretor: Professor
     {
 
-             public sealed override  void Apresentar() {
+             public override  void Apresentar() {
 
-                        Console.WriteLine($"Diretor);
+                        Console.WriteLine($"Diretor");
 
              }
 

@@ -1,13 +1,22 @@
 ﻿using ClassesAbstratas_Interfaces;
 using ClassesAbstratas_Interfaces.Models;
 
-Pessoa p1 = new Pessoa("Leonardo");
 
-Aluno a1 = new Aluno("Eduardo");
 
-a1.Apresentar();
+Computador c = new Computador();
 
-Professor prof = new Professor();
+Console.WriteLine(c.ToString());
+
+
+
+
+// Pessoa p1 = new Pessoa("Leonardo");
+
+// Aluno a1 = new Aluno("Eduardo");
+
+// a1.Apresentar();
+
+// Professor prof = new Professor();
 
 
 
