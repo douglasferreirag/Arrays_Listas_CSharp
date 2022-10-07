@@ -1,11 +1,30 @@
 ﻿using ClassesAbstratas_Interfaces;
+using ClassesAbstratas_Interfaces.Interfaces;
 using ClassesAbstratas_Interfaces.Models;
+using OperadoresAritmeticosCSharp.Models;
+
+ICalculadora calc = new Calculadora();
+
+Console.WriteLine(calc.Multiplicar(3, 9));
 
 
 
-Computador c = new Computador();
 
-Console.WriteLine(c.ToString());
+
+
+
+
+
+
+
+
+
+
+
+
+// Computador c = new Computador();
+
+// Console.WriteLine(c.ToString());
 
 
 
